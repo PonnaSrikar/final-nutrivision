@@ -22,7 +22,11 @@ This project allows users to upload an image via a web interface, sends the imag
 
 ## Installation
 
-1. **Copy or download this folder**
+1. **Clone the repository:**
+    ```sh
+    git clone https://github.com/PonnaSrikar/final-nutrivision.git
+    cd final-nutrivision
+    ```
 
 2. **Create and activate a virtual environment:**
     ```sh
